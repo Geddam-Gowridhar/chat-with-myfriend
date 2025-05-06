@@ -1,0 +1,21 @@
+[debug] [2025-05-06T09:19:35.696Z] ----------------------------------------------------------------------
+[debug] [2025-05-06T09:19:35.882Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\gods gifts\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-05-06T09:19:35.883Z] CLI Version:   14.2.1
+[debug] [2025-05-06T09:19:35.883Z] Platform:      win32
+[debug] [2025-05-06T09:19:35.883Z] Node Version:  v22.15.0
+[debug] [2025-05-06T09:19:35.887Z] Time:          Tue May 06 2025 14:49:35 GMT+0530 (India Standard Time)
+[debug] [2025-05-06T09:19:35.888Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-05-06T09:19:36.074Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-05-06T09:19:36.075Z] > authorizing via signed-in user (geddamgowridhar018@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\gods gifts\Dropbox\My PC (LAPTOP-17IJBS50)\Downloads\chat-with-myfriend
+
