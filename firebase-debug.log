@@ -47,3 +47,10 @@ You're about to initialize a Firebase project in this directory:
 
   C:\Users\gods gifts\Dropbox\My PC (LAPTOP-17IJBS50)\Downloads\CHAT-with-ME
 
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
